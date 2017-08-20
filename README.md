@@ -79,10 +79,18 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ##### Here are six frames and their corresponding heatmaps:
 
-![alt text][image5]
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat_map1.JPG)
 
-##### Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from all six frames:
-![alt text][image6]
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat_map2.JPG)
+
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat_map3.JPG)
+
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat-map.JPG)
+
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat_map5.JPG)
+
+![alt text](https://github.com/evaliu1/CarND-Vehicle-Detection-P5/blob/master/Images/Heat_map6.JPG)
+
 
 ##### Here the resulting bounding boxes are drawn onto the last frame in the series:
 ![alt text][image7]
